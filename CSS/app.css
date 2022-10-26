@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.navegacion {
+
+}
+
+.sobre-nosotros {
+    background-color: red;
+    width: 200px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.sobre-empresa {
+
+}
